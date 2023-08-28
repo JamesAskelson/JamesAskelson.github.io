@@ -3515,3 +3515,8 @@ input, select, textarea {
 		display: flex;
 		justify-content: center;
 	}
+
+	.pfpimg {
+		width: 75%;
+		height: 75%;
+	}
