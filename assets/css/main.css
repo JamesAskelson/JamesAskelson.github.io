@@ -3517,6 +3517,13 @@ input, select, textarea {
 	}
 
 	.pfpimg {
-		width: 75%;
+		display: block;
+		margin: 0 0 2em 0;
 		height: 75%;
+		width: 75%;
+	}
+
+	.pfpimg img {
+		height: 75%;
+		width: 75%;
 	}
