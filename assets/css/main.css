@@ -290,6 +290,11 @@ input, select, textarea {
 
 /* Row */
 
+	.custom-row{
+		display: flex;
+		gap: 5%;
+	}
+
 	.row {
 		display: flex;
 		flex-wrap: wrap;
